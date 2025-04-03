@@ -15,4 +15,5 @@ hello chandler
 hello chandler master test
 hello chandler hot-fix test
 111111111111111111111111111
-222222222 ssh
+222222222 ssh pull
+333333333 ssh push
